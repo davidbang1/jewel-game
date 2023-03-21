@@ -1,0 +1,18 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+// @import "../index.css";
+@import "Cell.scss";
+@import "Board.scss";
+@import "Player.scss";
+@import "Royals.scss";
+@import "Rewards.scss";
+
+.title {
+  padding: 5%;
+  background-color: yellow;
+}
+.col1 {
+  background-color: green;
+}
+.col2 {
+  background-color: pink;
+}
